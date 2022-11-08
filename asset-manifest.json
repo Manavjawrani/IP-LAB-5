@@ -1,21 +1,19 @@
 {
   "files": {
-    "main.css": "/IP-LAB-5/static/css/main.0c9a8bf5.chunk.css",
-    "main.js": "/IP-LAB-5/static/js/main.fb3e76ed.chunk.js",
-    "main.js.map": "/IP-LAB-5/static/js/main.fb3e76ed.chunk.js.map",
-    "runtime~main.js": "/IP-LAB-5/static/js/runtime~main.12613fc8.js",
-    "runtime~main.js.map": "/IP-LAB-5/static/js/runtime~main.12613fc8.js.map",
-    "static/js/2.86c0fb4b.chunk.js": "/IP-LAB-5/static/js/2.86c0fb4b.chunk.js",
-    "static/js/2.86c0fb4b.chunk.js.map": "/IP-LAB-5/static/js/2.86c0fb4b.chunk.js.map",
+    "main.css": "/IP-LAB-5/static/css/main.016afb0c.css",
+    "main.js": "/IP-LAB-5/static/js/main.1ee704f0.js",
+    "static/media/maxresdefault.jpg": "/IP-LAB-5/static/media/maxresdefault.56ae387fb67a8e83dfcd.jpg",
+    "static/media/pythonimg.png": "/IP-LAB-5/static/media/pythonimg.ecfb4e6faf26def45e95.png",
+    "static/media/csslogo.png": "/IP-LAB-5/static/media/csslogo.7d039f840c0c251dd48a.png",
+    "static/media/javascriptimg2.png": "/IP-LAB-5/static/media/javascriptimg2.354bb8ee24943041d9a9.png",
+    "static/media/html5logo.jpg": "/IP-LAB-5/static/media/html5logo.0d7034b0984ed2d7ca50.jpg",
+    "static/media/mngodbimg.png": "/IP-LAB-5/static/media/mngodbimg.c7120ffe7505ca3d3f4a.png",
     "index.html": "/IP-LAB-5/index.html",
-    "precache-manifest.907a1d06bd817e4da93b6a2b113c4904.js": "/IP-LAB-5/precache-manifest.907a1d06bd817e4da93b6a2b113c4904.js",
-    "service-worker.js": "/IP-LAB-5/service-worker.js",
-    "static/css/main.0c9a8bf5.chunk.css.map": "/IP-LAB-5/static/css/main.0c9a8bf5.chunk.css.map",
-    "static/media/csslogo.png": "/IP-LAB-5/static/media/csslogo.04cf122b.png",
-    "static/media/html5logo.jpg": "/IP-LAB-5/static/media/html5logo.3a431a93.jpg",
-    "static/media/javascriptimg2.png": "/IP-LAB-5/static/media/javascriptimg2.184a7681.png",
-    "static/media/maxresdefault.jpg": "/IP-LAB-5/static/media/maxresdefault.7bedb930.jpg",
-    "static/media/mngodbimg.png": "/IP-LAB-5/static/media/mngodbimg.d261a13e.png",
-    "static/media/pythonimg.png": "/IP-LAB-5/static/media/pythonimg.c290a443.png"
-  }
+    "main.016afb0c.css.map": "/IP-LAB-5/static/css/main.016afb0c.css.map",
+    "main.1ee704f0.js.map": "/IP-LAB-5/static/js/main.1ee704f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.016afb0c.css",
+    "static/js/main.1ee704f0.js"
+  ]
 }
