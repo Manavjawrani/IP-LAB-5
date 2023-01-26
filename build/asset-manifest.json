@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/IP-LAB-5/static/css/main.016afb0c.css",
-    "main.js": "/IP-LAB-5/static/js/main.5d699b70.js",
-    "static/media/maxresdefault.jpg": "/IP-LAB-5/static/media/maxresdefault.56ae387fb67a8e83dfcd.jpg",
-    "static/media/pythonimg.png": "/IP-LAB-5/static/media/pythonimg.ecfb4e6faf26def45e95.png",
-    "static/media/csslogo.png": "/IP-LAB-5/static/media/csslogo.7d039f840c0c251dd48a.png",
-    "static/media/javascriptimg2.png": "/IP-LAB-5/static/media/javascriptimg2.354bb8ee24943041d9a9.png",
-    "static/media/html5logo.jpg": "/IP-LAB-5/static/media/html5logo.0d7034b0984ed2d7ca50.jpg",
-    "static/media/mngodbimg.png": "/IP-LAB-5/static/media/mngodbimg.c7120ffe7505ca3d3f4a.png",
-    "index.html": "/IP-LAB-5/index.html",
-    "main.016afb0c.css.map": "/IP-LAB-5/static/css/main.016afb0c.css.map",
-    "main.5d699b70.js.map": "/IP-LAB-5/static/js/main.5d699b70.js.map"
+    "main.css": "/IP-LAB-REPOSITORY-EXP-5/static/css/main.016afb0c.css",
+    "main.js": "/IP-LAB-REPOSITORY-EXP-5/static/js/main.cbc73b29.js",
+    "static/media/maxresdefault.jpg": "/IP-LAB-REPOSITORY-EXP-5/static/media/maxresdefault.56ae387fb67a8e83dfcd.jpg",
+    "static/media/pythonimg.png": "/IP-LAB-REPOSITORY-EXP-5/static/media/pythonimg.ecfb4e6faf26def45e95.png",
+    "static/media/csslogo.png": "/IP-LAB-REPOSITORY-EXP-5/static/media/csslogo.7d039f840c0c251dd48a.png",
+    "static/media/javascriptimg2.png": "/IP-LAB-REPOSITORY-EXP-5/static/media/javascriptimg2.354bb8ee24943041d9a9.png",
+    "static/media/html5logo.jpg": "/IP-LAB-REPOSITORY-EXP-5/static/media/html5logo.0d7034b0984ed2d7ca50.jpg",
+    "static/media/mngodbimg.png": "/IP-LAB-REPOSITORY-EXP-5/static/media/mngodbimg.c7120ffe7505ca3d3f4a.png",
+    "index.html": "/IP-LAB-REPOSITORY-EXP-5/index.html",
+    "main.016afb0c.css.map": "/IP-LAB-REPOSITORY-EXP-5/static/css/main.016afb0c.css.map",
+    "main.cbc73b29.js.map": "/IP-LAB-REPOSITORY-EXP-5/static/js/main.cbc73b29.js.map"
   },
   "entrypoints": [
     "static/css/main.016afb0c.css",
-    "static/js/main.5d699b70.js"
+    "static/js/main.cbc73b29.js"
   ]
 }
